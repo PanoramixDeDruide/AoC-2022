@@ -125,10 +125,6 @@ Puck:	You are as sorry as the sum of yourself and a pig.
 
 Puck:	You are zero.
 
-[Exit Ajax]
-
-[Enter Capulet]
-
 	Scene III: Where compartment B gets filled.
 
 [Exeunt]
@@ -260,6 +256,20 @@ Romeo:	Let us proceed to scene VI.
 
 [Exeunt]
 
+[Enter Macbeth and Macduff]
+
+Macbeth:	Recall something.
+
+Macduff:	Recall what.
+
+[Exeunt]
+
+[Enter Romeo and Capulet]
+
+Romeo:		Recall something, please, Sir.
+
+[Exeunt]
+
 [Enter Ajax and Arthur]
 
 Ajax:	You are nothing.
@@ -297,22 +307,23 @@ Juliet:	You are as beautiful as Capulet.
 [Enter Arthur]
 
 Juliet:	You are as gentle as the difference between yourself and a hog.
-	Are you as beautiful as Julia? If so, we must proceed to scene XX.
+	Are you as good as Claudio? If so, we must proceed to scene XX.
 
 [Exit Arthur]
 
 [Enter Capulet]
 
-Juliet:	Recall your next value, please.
+Juliet:	Recall your next value.
 	Let us return to scene VII.
 
 	Scene X: Where we have found a match between Elf 1 and Elf 2.
 
 [Exeunt]
 
-[Enter Romeo and Juliet]
+[Enter Macduff and Alonso]
 
-Romeo:	Let us proceed to scene L.
+Macduff:	You are nothing.
+		Let us proceed to scene L.
 
 	Scene LX: Where we have found a three-way match.
 
@@ -320,8 +331,7 @@ Romeo:	Let us proceed to scene L.
 
 [Enter Juliet and Banquo]
 
-Banquo:	Speak your mind.
-	Are you better than Helena? If so, we must proceed to scene LXI.
+Banquo:	Are you better than Helena? If so, we must proceed to scene LXI.
 	You are as delicious as the sum of Brabantio and the difference between yourself and Helen.
 
 Juliet:	You are as handsome as the sum of yourself and I.
@@ -420,15 +430,15 @@ Ajax:		You are nothing.
 
 [Exeunt]
 
-[Enter Ford and Lady Capulet]
-
-Ford:		Recall nonsense, please.
-
-[Exeunt]
-
 [Enter Arthur and Capulet]
 
-Capulet:	You are the Heaven.
+Capulet:	You are zero.
+
+[Exit Capulet]
+
+[Enter Lady Capulet]
+
+Arthur:		Recall why you have yourself twice.
 
 	Scene XXI: Where we restore Capulet from Lady Capulet.
 
@@ -440,7 +450,7 @@ Arthur:		You are as pretty as Lady Capulet.
 		Remember yourself.
 
 Capulet:	You are as handsome as the difference between yourself and a flirt-gill.
-		Are you better than Julia? If so, we must proceed to scene XXII.
+		Are you as good as Claudio? If so, we must proceed to scene XXII.
 
 [Exit Arthur]
 
@@ -458,7 +468,7 @@ Capulet:	Recall the next value, please.
 Ajax:		Recall your next value, please.
 
 Macbeth:	You are as charming as the sum of yourself and a flower.
-		Are you as smelly as Claudio? If so, we must proceed to scene LXX.
+		Are you as smelly as Julia? If so, we must proceed to scene LXX.
 
 [Exit Macbeth]
 
@@ -470,7 +480,7 @@ Ajax:		You are zero.
 
 [Enter Capulet]
 
-Ajax:		Recall something, yo.
+Ajax:		Recall something, please.
 		We must return to scene VII.
 
 	Scene L: Where we try to find a match in Elf 3.
@@ -481,15 +491,6 @@ Ajax:		Recall something, yo.
 
 Macduff:	You are as brave as myself.
 		Are you as smelly as Juliet? If so, we must proceed to scene LII.
-
-	Scene LII: Where we perform yet another check.
-
-[Exeunt]
-
-[Enter Macduff and Brutus]
-
-Macduff:	Are you as handsome as Romeo? If so, let us proceed to scene LX.
-		We must return to scene LI.
 
 	Scene LI: The continution of scene L.
 
@@ -514,19 +515,28 @@ Brutus:	You are as gentle as the difference between yourself and a hog.
 Brutus:	Recall your next value, please.
 	Let us return to scene L.
 
+	Scene LII: Where we perform yet another check.
+
+[Exeunt]
+
+[Enter Macduff and Brutus]
+
+Macduff:	Are you as handsome as Romeo? If so, let us proceed to scene LX.
+		We must return to scene LI.
+
 	Scene LXX: Where we only found a two-way match so we're continuing with the next item.
 
 [Exeunt]
 
-[Enter Ford and Lady Macduff]
+[Enter Lady Macduff and Ford]
 
-Ford:		Recall nonsense, please.
+Ford:		Recall something bogus.
 
 [Exeunt]
 
 [Enter Alonso and Macduff]
 
-Macduff:	You are the Heaven.
+Macduff:	You are zero.
 
 	Scene LXXI: Where we restore Macduff from Lady Macduff.
 
@@ -538,7 +548,7 @@ Alonso:		You are as pretty as Lady Macduff.
 		Remember yourself.
 
 Macduff:	You are as handsome as the difference between yourself and a flirt-gill.
-		Are you better than Claudius? If so, we must proceed to scene LXXII.
+		Are you as good as Claudius? If so, we must proceed to scene LXXII.
 
 [Exit Alonso]
 
@@ -551,26 +561,29 @@ Macduff:	Recall the next value, please.
 
 [Exeunt]
 
-[Enter Arthur and Capulet]
+[Enter Macduff and Ford]
 
-Arthur:		Recall your next value, please.
-
-Capulet:	You are as charming as the sum of yourself and a flower.
-		Are you better than Julia? If so, we must proceed to act IV.
+Ford:		Recall bogus data.
 
 [Exeunt]
 
-[Enter Arthur and Alonso]
+[Enter Capulet and Lady Capulet]
 
-Arthur:		You are zero.
+Capulet:	You are as fair as I.
+		Remember yourself.
 
-Alonso:		You are nothing.
+[Exit Lady Capulet]
+
+[Enter Arthur]
+
+Capulet:	You are as fat as the difference between yourself and a hog.
+		Are you as beautiful as Claudio? If so, we must proceed to scene XX.
 
 [Exit Arthur]
 
-[Enter Capulet]
+[Enter Helen]
 
-Alonso:		Recall something, yo.
+Helen:		Recall your next value.
 		We must return to scene VII.
 
 	Act III: The results.
